@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClashRoyal_UI_STUDY", "ClashRoyal_UI_STUDY.csproj", "{8A6A862D-9638-E9EC-ABAC-62759D636ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A6A862D-9638-E9EC-ABAC-62759D636ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6A862D-9638-E9EC-ABAC-62759D636ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6A862D-9638-E9EC-ABAC-62759D636ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6A862D-9638-E9EC-ABAC-62759D636ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
